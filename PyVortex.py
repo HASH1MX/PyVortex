@@ -44,7 +44,7 @@ elif choice == 4 :
 elif choice == 5 :
         print(number1, "%", number2, "=", percentage(number1, number2))            
 else:
-    print("Wrong Input 💀")
+    print("Wrong Input 💀 ")
         
 
 
